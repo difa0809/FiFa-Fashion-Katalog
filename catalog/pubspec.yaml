@@ -1,0 +1,33 @@
+name: katalog
+description: A new Flutter project.
+
+version: 1.0.0+1
+
+environment:
+  sdk: ">=2.17.0 <3.0.0"
+
+dependencies:
+  flutter:
+    sdk: flutter
+  cupertino_icons: ^0.1.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^1.0.0
+
+flutter:
+  uses-material-design: true
+  assets:
+    - assets/sweater.jpg
+    - assets/babygirl.jpg
+    - assets/boba.jpg
+    - assets/cardi.jpg
+    - assets/crop.jpg
+    - assets/girl.jpg
+    - assets/jaketparka.jpg
+    - assets/girlcoat.jpg
+    - assets/swaterkorea.jpg
+    - assets/image.jpg
+    - assets/contak.png
